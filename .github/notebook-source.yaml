@@ -7,18 +7,18 @@ _common_target_repository: &_common_target_repository
     origin: notebooks/
     ref: null
 
-whisper:
+stable-diffusion:
   source:
     paths:
-    - expression: '*'
-      path: whisper/whisper-example.ipynb
-      recursive: true
+      - path: stable-diffusion/image_to_image.ipynb
+      - path: stable-diffusion/inpainting.ipynb
+      - path: stable-diffusion/text_to_image.ipynb
+      - path: stable-diffusion/text_to_image_sd2.ipynb
+      - path: stable-diffusion/requirements.txt
     repository:
       <<: *_gradient_huggingface
-      prefix: notebooks/
+      prefix: stable-diffusion/
   target:
-    renames:
-      ./whisper-example.ipynb: ./whisper-ipu.ipynb
     repository:
       <<: *_common_target_repository
       prefix: ./
