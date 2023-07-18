@@ -16,10 +16,10 @@ Graphcore's IPU (Intelligence Processing Unit) is a completely new kind of massi
 
 | Notebook | Framework | Type | Try for Free
 | ------------- | ------------- | ------------- | ------------- |
-| Text-to-Image Generation on IPU with Stable Diffusion - Inference | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()
-| Text-to-Image Generation using Stable Diffusion 2 on IPU | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()
-| Image-to-Image Generation on IPU using Stable Diffusion - Inference | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()
-| Text Guided In-Painting on IPU using Stable Diffusion - Inference | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]()
+| Text-to-Image Generation on IPU with Stable Diffusion - Inference | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/f7PeOy)
+| Text-to-Image Generation using Stable Diffusion 2 on IPU | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/DXINRI)
+| Image-to-Image Generation on IPU using Stable Diffusion - Inference | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/G7HJpl)
+| Text Guided In-Painting on IPU using Stable Diffusion - Inference | Hugging Face | Inference | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://ipu.dev/oUSboS)
 
 The notebooks demonstrate running inference on Stable Diffusion models on Graphcore IPUs for the following tasks:
 * text-to-image generation (Stable Diffusion v1.5 and Stable Diffusion v2)
