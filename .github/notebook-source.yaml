@@ -10,11 +10,7 @@ _common_target_repository: &_common_target_repository
 stable-diffusion:
   source:
     paths:
-      - path: stable-diffusion/image_to_image.ipynb
-      - path: stable-diffusion/inpainting.ipynb
-      - path: stable-diffusion/text_to_image.ipynb
-      - path: stable-diffusion/text_to_image_sd2.ipynb
-      - path: stable-diffusion/requirements.txt
+      - path: stable-diffusion/
     repository:
       <<: *_gradient_huggingface
       prefix: stable-diffusion/
