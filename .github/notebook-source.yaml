@@ -1,3 +1,4 @@
+
 _gradient_huggingface: &_gradient_huggingface
   origin: https://github.com/graphcore/Gradient-HuggingFace.git
   ref: main
@@ -7,7 +8,7 @@ _common_target_repository: &_common_target_repository
     origin: notebooks/
     ref: null
 
-stable-diffusion:
+gpt-j:
   source:
     paths:
       - path: stable-diffusion/
