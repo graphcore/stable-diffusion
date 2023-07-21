@@ -11,7 +11,9 @@ _common_target_repository: &_common_target_repository
 gpt-j:
   source:
     paths:
-      - path: stable-diffusion/
+    - expression: '*'
+      path: stable-diffusion/
+      recursive: true
     repository:
       <<: *_gradient_huggingface
       prefix: stable-diffusion/
