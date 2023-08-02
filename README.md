@@ -11,8 +11,6 @@ Stable Diffusion is one of the standout stars of the generative AI revolution. T
 
 Run Stable Diffusion for yourself with Paperspace notebooks on Graphcore's IPU (Intelligence Processing Unit), a completely new kind of massively parallel processor designed to accelerate machine intelligence. Access advanced, cost-efficient IPU compute on demand in the cloud on Paperspace to build, fine-tune and deploy AI models such as Stable Diffusion.
 
-
-
 ## Stable Diffusion notebooks powered by IPUs
 
 | Notebook | Framework | Type | Try for Free
@@ -29,7 +27,6 @@ These notebooks demonstrate how you can run inference on Stable Diffusion models
 
 ## Stable Diffusion resources
 
-* [GitHub code](https://github.com/graphcore/Gradient-HuggingFace/tree/main/stable-diffusion)
 * Hugging Face models
   * [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
   * [stabilityai/stable-diffusion-2](https://huggingface.co/stabilityai/stable-diffusion-2)
@@ -42,3 +39,7 @@ To take your Stable Diffusion usage on IPUs further, or to speak to an expert, p
 Join our growing community and interact with AI experts, IPU developers and researchers. Hear the latest IPU news and get access to our newest models.
 
 [![Join our Slack Community](https://img.shields.io/badge/Slack-Join%20Graphcore's%20Community-blue?style=flat-square&logo=slack)](https://www.graphcore.ai/join-community)
+
+## Licensing
+
+The contents of this repository are made available according to the terms of the Apache 2.0 licence. See the included [LICENSE](LICENSE) file for details.
