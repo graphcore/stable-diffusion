@@ -44,4 +44,4 @@ Join our growing community and interact with AI experts, IPU developers and rese
 
 The contents of this repository are made available according to the terms of the Apache 2.0 licence. See the included [LICENSE](LICENSE) file for details.
 
-Some examples included in this repo are based on images from https://github.com/CompVis/latent-diffusion/.
+Some examples included in this repo are based on images from https://github.com/CompVis/latent-diffusion/ which are made available under the terms of the [MIT license](https://github.com/CompVis/latent-diffusion/blob/main/LICENSE).
